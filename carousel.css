@@ -88,3 +88,10 @@ body {
     margin-top: 7rem;
   }
 }
+
+/* JOSH EDITS
+-------------------------------------------------- */
+
+.btn-lg:focus, .btn-lg:active, .btn-lg:hover {
+  background-color: #A45EE5;
+}
