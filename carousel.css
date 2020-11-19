@@ -95,3 +95,7 @@ body {
 .btn-lg:focus, .btn-lg:active, .btn-lg:hover {
   background-color: #A45EE5;
 }
+
+.navbar-custom { 
+    background-color: #A45EE5; 
+} 
