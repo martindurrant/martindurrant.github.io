@@ -99,3 +99,8 @@ body {
 .navbar-custom { 
     background-color: #A45EE5; 
 } 
+
+.sub-heading {
+  font-weight: 300;
+  font-size: 32px;
+}
