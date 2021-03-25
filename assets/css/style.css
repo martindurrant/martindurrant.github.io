@@ -652,7 +652,7 @@ section {
   background: #fff;
   padding: 40px 30px;
   width: 100%;
-  border: 1px solid #eef0ef;
+  border: 1px solid #e4e0e5;
 }
 
 .why-us .icon-boxes .icon-box i {
@@ -687,7 +687,7 @@ section {
   align-items: center;
   padding: 20px;
   transition: 0.3s;
-  border: 1px solid #eef0ef;
+  border: 1px solid #e4e0e5;
 }
 
 .features .icon-box i {
@@ -765,7 +765,7 @@ section {
 
 .courses .trainer {
   padding-top: 15px;
-  border-top: 1px solid #eef0ef;
+  border-top: 1px solid #e4e0e5;
 }
 
 .courses .trainer .trainer-profile img {
@@ -792,7 +792,7 @@ section {
   text-align: center;
   margin-bottom: 20px;
   background: #fff;
-  border: 1px solid #eef0ef;
+  border: 1px solid #e4e0e5;
 }
 
 .trainers .member img {
@@ -852,7 +852,7 @@ section {
   padding: 30px 30px 30px 60px;
   margin: 30px 15px;
   min-height: 200px;
-  border: 1px solid #eef0ef;
+  border: 1px solid #e4e0e5;
   position: relative;
   background: #fff;
 }
@@ -1388,7 +1388,7 @@ section {
 #footer {
   color: #362e38;
   font-size: 14px;
-  background: #eef0ef;
+  background: #e4e0e5;
 }
 
 #footer .footer-top {
